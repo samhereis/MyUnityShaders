@@ -1,0 +1,1 @@
+keytool -keystore "E:\MyUnityProjects\ShaderCourse\Keystore\user.keystore" -list -v
